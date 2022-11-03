@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate 
   on any SaaS projects that can generate some value.
 - 📫 How to reach me 
-  You can checkout my portfolio with all my links and contacting.
+  you can checkout my portfolio with all my links and contacting.
   https://relaxed-stonebraker-f8247f.netlify.app/
 
 <!---
