@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
   coding something cool and exiting.
 - 🌱 I’m currently learning 
-  Next js 13, more depths of backend with node.js and docker.
+  Next js 13, more depths of backend with node.js. Docker is also on the list.
 - 💞️ I’m looking to collaborate 
   on any SaaS projects that can generate a future company.
 - 📫 How to reach me 
