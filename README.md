@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
   coding something cool and exiting.
 - 🌱 I’m currently learning 
-  Next js 13, more depths of backend with node.js. 
+  Next js 13, more depths of backend with ASP.NET.
 - 💞️ I’m looking to collaborate 
   on any SaaS projects that can generate some value.
 - 📫 How to reach me 
